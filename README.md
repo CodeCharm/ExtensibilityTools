@@ -6,7 +6,4 @@ My intention is to strip out almost everything except the Bottom Margin (status 
 [Apache 2.0](LICENSE)
 
 ## Contribute
-**NOTE** Until I get my head wrapped around this, I don't plan to accept PRs. After I do, I will probably change this and then accept PRs.
-Just in case, you can use Mads's guidelines for now.
-Check out the [contribution guidelines](.github/CONTRIBUTION.md)
-if you want to contribute to this project.
+**NOTE** Until I get my head wrapped around this, I don't plan to accept PRs. After I do, I will probably create contribution guidelines and then accept PRs.
